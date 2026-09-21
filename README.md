@@ -4,4 +4,4 @@ Backend engineering internship (Summer 2027) に向けたアルゴリズム練�
 言語: Python
 
 ## Progress
-- Solved: 3 / 150 (NeetCode 150)
+- Solved: 4 / 150 (NeetCode 150)
